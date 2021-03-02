@@ -23,6 +23,6 @@ html {
   div #ostrich {
     position:relative;
     max-width:1090;
-    transform:rotate()
+    transform:rotate(0.5)
   }
 }
